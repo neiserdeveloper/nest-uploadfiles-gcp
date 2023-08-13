@@ -5,7 +5,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">Microservicio para subir archivos a CLoud Storage de GOOGLE CLOUD en NestJS</p>
+  <p align="center">Microservicio para subir archivos a Cloud Storage de GOOGLE CLOUD en NestJS</p>
 
 
 ## Contact
